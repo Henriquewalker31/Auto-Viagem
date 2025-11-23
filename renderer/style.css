@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f2e9d8;
+}
+
+#Form input {
+  margin: 10px auto;
+  padding: 10px;
+  text-align: center;
+  width: 250px;
+  display: block;
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px auto;
+  display: block;
+  width: 276px;
+}
+
+nav {
+  background-color: #174b7a;
+  color: rgb(255, 255, 255);
+  padding: 15px;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.resultado-box {
+  background: #e9f3ff;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  margin: 10px auto;
+  font-weight: bold;
+  border: 1px solid #c2c2c2;
+}
+
+
