@@ -3,7 +3,7 @@ const {app, BrowserWindow } = require('electron')
 
 function CreateMainWindow() {
     const mainWindow = new BrowserWindow({
-        title: 'Image Resizer',
+        title: 'AutoViagem',
         width: 500,
         height: 600
     });

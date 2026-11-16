@@ -22,7 +22,7 @@ function calcular() {
 }
 
 function autonomiaSalva(autonomia, litros) {
-  let historico = JSON.parse(localStorage.getItem("HistoricoAuto")) || [];
+  let historico = JSON.parse(localStorage.getItem("historicoAuto")) || [];
 
   historico.push({
     autonomia: autonomia,
@@ -79,7 +79,7 @@ function calcularValor() {
   mostrarValorHistorico();
 }
 function valorSalvo(valorGasto, lit) {
-  let historicoValor = JSON.parse(localStorage.getItem("HistoricoValor")) || [];
+  let historicoValor = JSON.parse(localStorage.getItem("historicoValor")) || [];
 
   historicoValor.push({
     valor: valorGasto,
