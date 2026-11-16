@@ -1,22 +1,27 @@
 {
   "name": "autoviagem",
   "version": "1.0.0",
-  "description": "",
+  "description": "Aplicativo desktop em Electron para calcular autonomia e custo de combustível",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Henriquewalker31/meu-app.git"
+    "url": "git+https://github.com/Henriquewalker31/Auto-Viagem.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "electron",
+    "javascript",
+    "combustivel",
+    "autonomia"
+  ],
+  "author": "Henrique Walker (https://github.com/Henriquewalker31)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Henriquewalker31/meu-app/issues"
+    "url": "https://github.com/Henriquewalker31/Auto-Viagem/issues"
   },
-  "homepage": "https://github.com/Henriquewalker31/meu-app#readme",
+  "homepage": "https://github.com/Henriquewalker31/Auto-Viagem#readme",
   "devDependencies": {
     "electron": "^39.2.2"
   }
