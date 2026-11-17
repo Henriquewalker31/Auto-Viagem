@@ -5,6 +5,8 @@
 
 Aplicativo desktop em **Electron** para calcular a autonomia do veículo e o custo de abastecimento. A interface usa Bootstrap e mantém um histórico local das últimas simulações.
 
+![Interface do AutoViagem](docs/screenshot.jpg)
+
 ## Funcionalidades
 
 - Cálculo de autonomia a partir do consumo (km/l) e da capacidade do tanque (l).
@@ -77,4 +79,4 @@ Auto-Viagem/
 
 ## Autor
 
-Feito por [Henrique Walker](https://github.com/Henriquewalker31).
+Feito por [Henrique Walker](https://github.com/Henriquewalker31). Veja o [portfólio](https://henriquewalker31.github.io/).
